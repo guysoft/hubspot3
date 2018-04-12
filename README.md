@@ -58,3 +58,8 @@ hubspot3/
       test_leads.py:        no documentation found
       test_settings.py:     no documentation found
 ```
+
+
+## Rate Limit
+
+The API is limited by Hubspot, more information avilable at the [API guidelines](https://developers.hubspot.com/apps/api_guidelines).
